@@ -1,2 +1,2 @@
-# Mortgage-_epayment_calculator
+# Mortgage_payment_calculator
 Mortgage repayment calculator. Frontend Mentor
